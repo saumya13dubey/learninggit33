@@ -1,0 +1,2 @@
+I am learning git.
+I am running git commands on git bash.
